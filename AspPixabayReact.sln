@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspPixabayReact.WEB", "AspPixabayReact.WEB\AspPixabayReact.WEB.csproj", "{C4FF7B58-DC34-4264-A878-FB26792AB08C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspPixabayReact.BLL", "AspPixabayReact.BLL\AspPixabayReact.BLL.csproj", "{AC4AA3FE-8B3B-4769-A18A-0F0350C00F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4FF7B58-DC34-4264-A878-FB26792AB08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FF7B58-DC34-4264-A878-FB26792AB08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FF7B58-DC34-4264-A878-FB26792AB08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FF7B58-DC34-4264-A878-FB26792AB08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4AA3FE-8B3B-4769-A18A-0F0350C00F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4AA3FE-8B3B-4769-A18A-0F0350C00F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4AA3FE-8B3B-4769-A18A-0F0350C00F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4AA3FE-8B3B-4769-A18A-0F0350C00F90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA9F5AF1-E123-443C-8E4E-00BD7135893B}
+	EndGlobalSection
+EndGlobal
